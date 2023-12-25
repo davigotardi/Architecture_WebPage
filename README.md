@@ -1,4 +1,5 @@
 # Architecture_WebPage
+![Architectureweb](https://github.com/davigotardi/Architecture_WebPage/assets/143345302/e06001d1-01b8-4c20-8688-821dd5e881d1)
 
 This is a responsive Webpage built using React.js for an Architecture Business. The website utilizes Unsplash for the images, Google Fonts for the Ubuntu font, and Bootstrap to style the elements.
 
