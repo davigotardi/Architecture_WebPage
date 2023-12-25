@@ -16,16 +16,19 @@ Unsplash: A website providing royalty-free high-resolution images.
 Google Fonts: A library of open-source fonts.
 Bootstrap: A CSS framework for designing responsive and mobile-first sites.
 
-Installation
-Clone the repository.
-Install the dependencies using npm install.
-Start the development server using npm start.
-Usage
-Open the website in your web browser.
-Navigate through the different pages to explore the website's features.
-Resize the browser window to observe the responsive layout.
+Build Setup
+# install dependencies
+npm install
 
-License
-MIT License
+# serve at localhost:3000
+npm start
+Specific Branch
+If you want to checkout a certain branch:
+
+git branch -a to list all the branches.
+
+git checkout 01-basics (or any branch) to check it out.
+
+
 
 Copyright (c) 2023 Davi Henrique
